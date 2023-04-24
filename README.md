@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-1. [About Me](#About Me)
-2. [Courses Taken](#Courses Taken)
+1. [About Me](#About-Me)
+2. [Courses Taken](#Courses-Taken)
 
 ## About Me
 
